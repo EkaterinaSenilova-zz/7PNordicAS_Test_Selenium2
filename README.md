@@ -62,6 +62,7 @@ What needs to install and adjust:
 
 3. Add to the java files where needed the path where the cromedriver file is located: System.setProperty("webdriver.chrome.driver", "//User/Downloads/chromedriver");
 
-4. you can also creae jar file:
+4. you can also create jar file:
 cd-  javac TestSuites.java
+
 java TestSuites.java
