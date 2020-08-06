@@ -54,3 +54,14 @@ login: X password: Y
 User can't log in to system with proprietary login and password (servers are down, no internet connection, etc )
 
      
+Instruction how to install and execute:
+
+What needs to install and adjust:
+1. JDK file https://www.oracle.com/java/technologies/javase-downloads.html 
+2. chromedriver https://chromedriver.chromium.org/downloads and add the path to the file. For Mac: https://www.kenst.com/2015/03/including-the-chromedriver-location-in-macos-system-path/ For Windows: https://developers.refinitiv.com/sites/default/files/How%20To%20Add%20ChromeDriver%20To%20System%20Variables_0.pdf 
+
+3. Add to the java files where needed the path where the cromedriver file is located: System.setProperty("webdriver.chrome.driver", "//User/Downloads/chromedriver");
+
+4. you can also creae jar file:
+cd-  javac TestSuites.java
+java TestSuites.java
