@@ -69,3 +69,5 @@ java TestSuites.java
 
 5. Then if needed (it is not necessary) for Windows create run.bat file where add the path to the jar file:
 java -jar .\TestSuites.jar
+
+I have been executed TestNG.xml suite directly from Intellij Idea debug tools. 
