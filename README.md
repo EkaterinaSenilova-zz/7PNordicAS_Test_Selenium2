@@ -15,7 +15,7 @@ a. Selenium
 // c. Cucumber framework (Gherkin Syntax).
 // NB. As a sample you could use e.g https://github.com/webdriverio/cucumber- boilerplate
 3. Add the needed instructions how to install and execute automated test cases in order to check the task.
-4. Send the ready project to the email maksim.kolodijev@7p-group.com or the link to the git repository (repository is preferred).
+4. Send the ready project to the email or the link to the git repository (repository is preferred).
 
 I have choosen the web page https://hack.me/
 
