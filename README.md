@@ -3,7 +3,7 @@
 General:
 For the task below you could choose ANY webpage that is having HOME page and LOG IN option.
 Except the technology stack task does not have the best way to solve it. We appreciate your approach to the solution and consider it as a good topic to discuss on technical interview.
-In case of any questions please contact maksim.kolodijev@7p-group.com
+In case of any questions please contact.
 Task:
 1. Create test plan which describes how to text tests next functionality / features:
 a. Home page is having correct title
